@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "Classic 35mm rangefinder camera known for its legendary build and image quality.",
+    "currentBidPrice": 3120,
+    "timeLeft": "4 Days",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/Nd3VpndD/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Iconic electric guitar known for its powerful sound and lightweight design.",
+    "currentBidPrice": 2890,
+    "timeLeft": "1 Day",
+    "bidsCount": 18,
+    "image": "https://i.ibb.co.com/DHdDTDxT/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "The first Macintosh computer, introduced by Apple in 1984.",
+    "currentBidPrice": 3050,
+    "timeLeft": "7 Days",
+    "bidsCount": 22,
+    "image": "https://i.ibb.co.com/spyYkLMB/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Luxury dive watch with automatic movement and stainless steel case.",
+    "currentBidPrice": 7320,
+    "timeLeft": "3 Days",
+    "bidsCount": 26,
+    "image": "https://i.ibb.co.com/wNxSLm8J/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Rare first edition of the American literary classic.",
+    "currentBidPrice": 4750,
+    "timeLeft": "6 Days",
+    "bidsCount": 30,
+    "image": "https://i.ibb.co.com/sv9JzgPR/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "Iconic lounge chair featuring molded plywood and leather upholstery.",
+    "currentBidPrice": 2630,
+    "timeLeft": "2 Days",
+    "bidsCount": 17,
+    "image": "https://i.ibb.co.com/My8ZRFNK/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "Rare artwork by the anonymous street artist Banksy.",
+    "currentBidPrice": 5190,
+    "timeLeft": "5 Days",
+    "bidsCount": 21,
+    "image": "https://i.ibb.co.com/HLKLMk84/Bid7-min.png"
+  },
+  {
+    "id": 8,
+    "title": "Banner",
+    "image": "https://i.ibb.co.com/mCDpLxGd/Banner-min.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Profile",
+    "image": "https://i.ibb.co.com/yn98jSkL/profile.png"
+  },
+  {
+    "id": 10,
+    "title": "Bell",
+    "image": "https://i.ibb.co.com/4wWG1YRK/Bell.png"
+  },
+  {
+    "id": 11,
+    "title": "Logo",
+    "image": "https://i.ibb.co.com/2Y5DSBZT/Logo.png"
+  }
+]
